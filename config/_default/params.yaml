@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Simon Gravelle. This work is licensed under {license}.'
+    notice: '© {year} Martin Hölzer. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
@@ -61,10 +61,10 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
-    theme_dark: dracula
-    #theme_light: igor
-    #theme_dark: nord
+    #theme_light: github-light
+    #theme_dark: dracula
+    theme_light: igor
+    theme_dark: nord
     enable: true
     extra_languages:
       - r
@@ -74,9 +74,9 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/simongravelle/simongravelle.github.io'
+    url: 'https://github.com/hoelzer/hoelzer.github.io'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
