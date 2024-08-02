@@ -24,3 +24,4 @@ After cloning this repository, you can adapt it by:
 - add your own content in the [content](content/) folder,
 - custom css script can be written in [assets/scss/custom.scss](assets/scss/custom.scss),
 - each publication can be entered as a folder in [content/publication/](content/publication/).
+
