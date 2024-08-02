@@ -76,6 +76,14 @@ I am a researcher at the [Genome Competence Center](https://www.rki.de/EN/Conten
 
 I studied bioinformatics at the University of Jena ([RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/)), then moved to the European Bioinformatics Institute in Hinxton ([Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/)), and now continuing my academic journey at the RKI in Berlin. 
 
+**Research interests**
+
+* Microbial bioinformatics
+* _de novo_ assembly & annotation
+* Transcriptomics & comparative genomics
+* Metagenomics & -transcriptomics
+* Real-time nanopore sequencing
+* Workflow management & reproducibility via [Nextflow](https://nextflow.io)
 
 <!--**Open source and open data**
 
