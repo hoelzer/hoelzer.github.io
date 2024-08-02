@@ -8,7 +8,7 @@ headless: true
 weight: 60
 
 title: Recent publications
-# subtitle: 'See also my [Google Scholar](https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en).'
+subtitle: 'See also my [Google Scholar](https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en).'
 
 content:
   # Filter on criteria
