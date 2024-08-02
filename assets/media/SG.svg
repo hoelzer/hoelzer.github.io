@@ -7,7 +7,7 @@
    viewBox="0 0 50.799999 50.799999"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
    sodipodi:docname="SG.svg"
    inkscape:export-filename="/home/simon/Git/Communication/new-template/assets/media/SG.png"
    inkscape:export-xdpi="96"
@@ -28,15 +28,17 @@
      showgrid="false"
      units="px"
      width="192px"
-     inkscape:zoom="2.7117565"
-     inkscape:cx="58.449201"
-     inkscape:cy="110.44502"
-     inkscape:window-width="1920"
-     inkscape:window-height="1132"
+     inkscape:zoom="0.95875071"
+     inkscape:cx="27.118624"
+     inkscape:cy="159.58267"
+     inkscape:window-width="1447"
+     inkscape:window-height="784"
      inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:window-y="420"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <defs
      id="defs2">
     <rect
@@ -63,13 +65,24 @@
        style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect1589)" />
     <text
        xml:space="preserve"
-       transform="matrix(0.26458333,0,0,0.26458333,26.38767,0.55894483)"
+       transform="matrix(0.26458333,0,0,0.26458333,24.800169,3.2047783)"
        id="text4869"
-       style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4871);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-weight:normal;font-size:106.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4871);fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-81.572266"
-         y="134.19922"
-         id="tspan6969"><tspan
+         y="120.51476"
+         id="tspan139640"><tspan
            style="font-weight:bold;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';fill:#808080"
-           id="tspan6967">SG</tspan></tspan></text>
+           id="tspan139638">MH</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:3.175px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#d40000;stroke:#000000;stroke-width:0.1"
+       x="86.653564"
+       y="28.700544"
+       id="text139625"><tspan
+         sodipodi:role="line"
+         id="tspan139623"
+         style="stroke-width:0.1"
+         x="86.653564"
+         y="28.700544">-</tspan></text>
   </g>
 </svg>
