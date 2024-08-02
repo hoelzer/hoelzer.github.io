@@ -24,14 +24,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-        - title: NLP research lead
-          company: BlinqIO 
-          company_url: 'https://blinq.io/'
-          company_logo: 
-          location: Tel-Aviv, Israel
-          date_start: '2023-11-01'
+        - title: Team lead
+          company: Robert Koch Institute 
+          company_url: 'https://www.rki.de/EN/Home/homepage_node.html'
+          company_logo: rki
+          location: Berlin, Germany
+          date_start: '2020-08-01'
           date_end: ''
-          description: 'NLP research lead for BlinqIO, focusing on building autonomous agent-based virtual testers.'
+          description: 'FOO BAR'
 
         - title: Research scientist 
           company: Mobileye
