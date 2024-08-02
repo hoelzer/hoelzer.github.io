@@ -29,11 +29,11 @@ experience:
           company_url: 'https://www.rki.de/EN/Home/homepage_node.html'
           company_logo: rki
           location: Berlin, Germany
-          date_start: '2023-04-01'
+          date_start: '2020-08-01'
           date_end: ''
-          description: 'Responsible for bioinformatics research development focusing on pandemic prepardness, one health, and pathogen evolution. Leading an interdisciplinary team conducting research and method development to characterize infectious disease agents by sequencing.'
+          description: 'Responsible for bioinformatics research development focusing on pandemic prepardness, One Health, and pathogen evolution. Leading an interdisciplinary team conducting research and method development to characterize infectious disease agents by modern sequencing.'
 
-        - title: Visiting Research 
+        - title: Visiting Researcher
           company: Microbiome Informatics, European Bioinformatics Institute (EMBL-EBI)
           company_url: 'https://www.ebi.ac.uk/about/teams/microbiome-informatics'
           company_logo: ebi
@@ -42,7 +42,7 @@ experience:
           date_end: '2020-03-15'
           description: 'Working in the research group of Dr. Rob Finn on the analysis and classification of metagenomic samples using Nanopore long-read sequencing data and hybrid approaches. Contributor to the VIRify virus detection pipeline.'
 
-        - title: Post-doc & team leader
+        - title: Post-doc & Team Lead
           company: RNA Bioinformatics & High-Throughput Analysis, University of Jena
           company_url: 'https://www.rna.uni-jena.de/'
           company_logo: lauchlachs
@@ -51,7 +51,7 @@ experience:
           date_end: '2020-07-01'
           description: 'Team leader of an associated bioinformatics group at the Marz lab. Research on novel applications for emerging Nanopore long-read sequencing data in virus bioinformatics and metagenomics.'
 
-        - title: PhD student
+        - title: PhD Student
           company: RNA Bioinformatics & High-Throughput Analysis, University of Jena
           company_url: 'https://www.rna.uni-jena.de/'
           company_logo: fsu
