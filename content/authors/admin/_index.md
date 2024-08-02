@@ -72,7 +72,7 @@ highlight_name: true
 ---
 **About me**
 
-I am a researcher at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany where I'm leading a research team focusing on infectious diseases using real-time nanopore sequencing, rapid detection of pathogens, and microbial evolution.
+I am a researcher at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany, where I'm leading a research team focusing on infectious diseases using real-time nanopore sequencing, rapid detection of pathogens, and microbial evolution.
 
 I studied bioinformatics at the University of Jena ([RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/)), then moved to the European Bioinformatics Institute in Hinxton ([Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/)), and now continuing my academic journey at the RKI in Berlin. 
 
