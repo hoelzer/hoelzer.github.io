@@ -61,10 +61,10 @@ locale:
 
 features:
   syntax_highlighter:
-    #theme_light: github-light
-    #theme_dark: dracula
-    theme_light: igor
-    theme_dark: nord
+    theme_light: github-light
+    theme_dark: dracula
+    #theme_light: igor
+    #theme_dark: nord
     enable: true
     extra_languages:
       - r
