@@ -9,7 +9,7 @@
    id="svg5"
    inkscape:version="1.2.1 (9c6d41e, 2022-07-14)"
    sodipodi:docname="SG.svg"
-   inkscape:export-filename="/home/simon/Git/Communication/new-template/assets/media/SG.png"
+   inkscape:export-filename="logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -29,7 +29,7 @@
      units="px"
      width="192px"
      inkscape:zoom="0.95875071"
-     inkscape:cx="27.118624"
+     inkscape:cx="21.381992"
      inkscape:cy="159.58267"
      inkscape:window-width="1447"
      inkscape:window-height="784"
@@ -62,17 +62,17 @@
        xml:space="preserve"
        transform="scale(0.26458333)"
        id="text1587"
-       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;white-space:pre;shape-inside:url(#rect1589)" />
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect1589);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
     <text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,24.800169,3.2047783)"
        id="text4869"
-       style="font-style:normal;font-weight:normal;font-size:106.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4871);fill:#000000;fill-opacity:1;stroke:none"><tspan
+       style="font-style:normal;font-weight:normal;font-size:106.667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect4871);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
          x="-81.572266"
          y="120.51476"
-         id="tspan139640"><tspan
+         id="tspan140290"><tspan
            style="font-weight:bold;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';fill:#808080"
-           id="tspan139638">MH</tspan></tspan></text>
+           id="tspan140288">MH</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-weight:bold;font-size:3.175px;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle;fill:#d40000;stroke:#000000;stroke-width:0.1"

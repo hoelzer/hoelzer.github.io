@@ -79,8 +79,10 @@ I studied bioinformatics at the University of Jena ([RNA Bioinformatics and High
 **Research interests**
 
 * Microbial bioinformatics
-* _de novo_ assembly & annotation
-* Transcriptomics & comparative genomics
+* Genomic surveillance
+* Pathogen detection & characterization
+* Nanopore real-time sequencing
+* Transcriptomics & gene expression
 * Metagenomics & -transcriptomics
-* Real-time nanopore sequencing
-* Workflow management & reproducibility via [Nextflow](https://nextflow.io)
+* Cloud compute, automation & reproducibility via [Nextflow](https://nextflow.io)
+

@@ -24,32 +24,41 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-        - title: Team lead
-          company: Robert Koch Institute 
+        - title: Researcher & Team Lead
+          company: Bioinformatics & Translational Research, Genome Competence Center, Robert Koch Institute 
           company_url: 'https://www.rki.de/EN/Home/homepage_node.html'
           company_logo: rki
           location: Berlin, Germany
-          date_start: '2020-08-01'
+          date_start: '2023-04-01'
           date_end: ''
-          description: 'FOO BAR'
+          description: 'Responsible for bioinformatics research development focusing on pandemic prepardness, one health, and pathogen evolution. Leading an interdisciplinary team conducting research and method development to characterize infectious disease agents by sequencing.'
 
-        - title: Research scientist 
-          company: Mobileye
-          company_url: 'https://www.mobileye.com/'
-          company_logo: 
-          location: Tel-Aviv, Israel
-          date_start: '2022-07-01'
-          date_end: '2023-11-01'
-          description: 'Research scientist at Mobileye, focusing on foundational multimodal models (vision and language).'
+        - title: Visiting Research 
+          company: Microbiome Informatics, European Bioinformatics Institute (EMBL-EBI)
+          company_url: 'https://www.ebi.ac.uk/about/teams/microbiome-informatics'
+          company_logo: ebi
+          location: Hinxton, United Kingdom
+          date_start: '2019-10-01'
+          date_end: '2020-03-15'
+          description: 'Working in the research group of Dr. Rob Finn on the analysis and classification of metagenomic samples using Nanopore long-read sequencing data and hybrid approaches. Contributor to the VIRify virus detection pipeline.'
 
-        - title: Algorithm engineer 
-          company: Mobileye
-          company_url: 'https://www.mobileye.com/'
-          company_logo: 
-          location: Tel-Aviv, Israel
-          date_start: '2020-07-01'
-          date_end: '2022-06-30'
-          description: 'Algorithm engineer at Mobileye, in charge of training segmentation vision models and post processing the results to create hgigh quality 2D picture segmentation.'
+        - title: Post-doc & team leader
+          company: RNA Bioinformatics & High-Throughput Analysis, University of Jena
+          company_url: 'https://www.rna.uni-jena.de/'
+          company_logo: rna
+          location: Jena, Germany
+          date_start: '2018-01-01'
+          date_end: '2020-07-01'
+          description: 'Team leader of an associated bioinformatics group at the Marz lab. Research on novel applications for emerging Nanopore long-read sequencing data in virus bioinformatics and metagenomics.'
+
+        - title: PhD student
+          company: RNA Bioinformatics & High-Throughput Analysis, University of Jena
+          company_url: 'https://www.rna.uni-jena.de/'
+          company_logo: fsu
+          location: Jena, Germany
+          date_start: '2013-08-01'
+          date_end: '2017-12-01'
+          description: 'Accomplished my PhD in the research group of Prof. Manja Marz while working on my thesis about the Dark Arts of Next-Generation Sequencing bioinformatics.'
 
 design:
   columns: '2'
