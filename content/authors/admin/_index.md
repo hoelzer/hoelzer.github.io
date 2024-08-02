@@ -72,17 +72,17 @@ highlight_name: true
 ---
 **About me**
 
-I am a researcher at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany, where I'm leading a research team focusing on infectious diseases using real-time nanopore sequencing, rapid detection of pathogens, and microbial evolution.
+I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany. Our team focuses on infectious disease surveillance by applying real-time nanopore sequencing, analyzing environmental samples such as wastewater, and investigating microbial evolution using pangenomics and AI.
 
-I studied bioinformatics at the University of Jena ([RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/)), then moved to the European Bioinformatics Institute in Hinxton ([Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/)), and now continuing my academic journey at the RKI in Berlin. 
+I studied Bioinformatics at the University of Jena and achieved my PhD by specializing in [RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/). Following this, I moved to the European Bioinformatics Institute in Hinxton to work in [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/)). I am now continuing my academic journey at the RKI in Berlin. 
 
 **Research interests**
 
 * Microbial bioinformatics
 * Genomic surveillance
-* Pathogen detection & characterization
+* Pathogen detection and characterization
 * Nanopore real-time sequencing
-* Transcriptomics & gene expression
-* Metagenomics & -transcriptomics
-* Cloud compute, automation & reproducibility via [Nextflow](https://nextflow.io)
+* Transcriptomics and gene expression
+* Metagenomics and metatranscriptomics
+* Cloud computing, automation, and reproducibility with [Nextflow](https://nextflow.io)
 

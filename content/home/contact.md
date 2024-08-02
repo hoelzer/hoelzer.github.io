@@ -8,7 +8,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: Get in Touch
 subtitle:
 
 content:
@@ -17,7 +17,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: hoelzer.martin@gmail.com
-  twitter: martinhoelzer
 
 design:
   columns: '2'

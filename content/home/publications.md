@@ -7,8 +7,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent publications
-subtitle: 'See also my [Google Scholar](https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en).'
+title: Selected publications
+subtitle: 'For a complete list, see also my [Google Scholar](https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en).'
 
 content:
   # Filter on criteria
