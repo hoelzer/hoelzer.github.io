@@ -45,7 +45,7 @@ experience:
         - title: Post-doc & team leader
           company: RNA Bioinformatics & High-Throughput Analysis, University of Jena
           company_url: 'https://www.rna.uni-jena.de/'
-          company_logo: rna
+          company_logo: lauchlachs
           location: Jena, Germany
           date_start: '2018-01-01'
           date_end: '2020-07-01'
