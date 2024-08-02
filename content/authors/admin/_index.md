@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatics researcher, Team lead
+role: Bioinformatics researcher, Team lead @RKI
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -76,29 +76,4 @@ I am a researcher at the [Genome Competence Center](https://www.rki.de/EN/Conten
 
 I studied bioinformatics at the University of Jena ([RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/)), then moved to the European Bioinformatics Institute in Hinxton ([Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/)), and now continuing my academic journey at the RKI in Berlin. 
 
-**Research interests**
 
-* Microbial bioinformatics
-* _de novo_ assembly & annotation
-* Transcriptomics & comparative genomics
-* Metagenomics & -transcriptomics
-* Real-time nanopore sequencing
-* Workflow management & reproducibility via [Nextflow](https://nextflow.io)
-
-<!--**Open source and open data**
-
-I share all the codes developed as part of my research as open source, see for instance:
-
-- my [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data,
-- [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations,
-
-In parallel to my open-source projects, I have been involved in the development of [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations.
-
-**Outreach**
-
-In parallel to my research activities, I am developing several outreach projects, including:
-- the [LAMMPS tutorials](https://lammpstutorials.github.io) webpage and its associated [repositories](https://github.com/lammpstutorials),
-- [MDCourse](https://github.com/mdcourse/mdcourse.github.io): Learn Molecular Simulations with Python,
-- the [GROMACS tutorials](https://gromacstutorials.github.io) page,
-- a [gallery of animations](https://www.youtube.com/@SimonGravelle) and [molecular art](https://simongravelle.github.io/gallery/).
--->
