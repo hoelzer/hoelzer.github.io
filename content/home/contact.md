@@ -17,6 +17,7 @@ content:
 
   # Contact details (edit or remove options as required)
   email: hoelzer.martin@gmail.com
+  twitter: martinhoelzer
 
 design:
   columns: '2'

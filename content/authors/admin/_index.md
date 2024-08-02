@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatics researcher, Team lead @RKI
+role: Bioinformatics Researcher, Team Lead @RKI
 
 # Organizations/Affiliations to show in About widget
 organizations:
