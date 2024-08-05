@@ -75,10 +75,10 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-</br >
-</br >
-</br >
-</br >
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 **About me**
 
 I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany. We study infectious disease by applying real-time nanopore sequencing, analyzing environmental samples such as wastewater, and investigating microbial evolution using pangenomics and AI for genomic surveillance.
