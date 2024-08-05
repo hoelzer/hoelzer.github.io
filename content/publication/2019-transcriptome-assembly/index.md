@@ -1,6 +1,6 @@
 ---
-title: "*De novo* transcriptome assembly: A comprehensive cross-species comparison of short-read RNA-Seq assemblers"
-date: 2019
+title: "De novo transcriptome assembly: A comprehensive cross-species comparison of short-read RNA-Seq assemblers"
+date: 2019-05-11
 publishDate: 2019-05-11
 authors: ["**Martin Hölzer**", "Manja Marz"]
 publication_types: ["2"]
