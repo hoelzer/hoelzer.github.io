@@ -55,8 +55,8 @@ social:
   #- icon: mastodon
   #  icon_pack: fab
   #  link: https://mastodon.social/@simongravelle
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en
   - icon: orcid
     icon_pack: fas
