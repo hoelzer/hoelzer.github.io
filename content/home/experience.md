@@ -12,7 +12,7 @@ headless: true
 weight: 100
 
 title: Experience
-subtitle:
+subtitle: See [my full CV](files/resume/cv-martin-hoelzer.pdf) for details.
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
