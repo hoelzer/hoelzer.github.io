@@ -25,6 +25,8 @@
  main:
   - name: " "
     weight: 5
+  - name: Home
+    url: '/index.html'
   - name: About
     url: '#about'
     weight: 10
