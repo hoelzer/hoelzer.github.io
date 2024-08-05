@@ -18,7 +18,7 @@ links:
     url: 'https://github.com/rki-mf1/vlq-nf'
   - icon_pack: ai
     icon: open-data
-    name: Open Science Framework
+    name: Open Data
     url: 'https://osf.io/upbqj/'
 
 ---

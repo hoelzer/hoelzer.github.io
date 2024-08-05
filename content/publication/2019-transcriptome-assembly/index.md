@@ -18,7 +18,7 @@ links:
     url: 'https://www.rna.uni-jena.de/supplements/assembly/index.html'
   - icon_pack: ai
     icon: open-data
-    name: Open Science Framework
+    name: Open Data
     url: 'https://doi.org/10.17605/OSF.IO/5ZDX4'
 
 ---
