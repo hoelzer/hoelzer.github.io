@@ -8,7 +8,7 @@ headless: true
 weight: 60
 
 title: Selected publications
-subtitle: 'For a complete list, see also my [Google Scholar](https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en).'
+subtitle: 'For a complete list, see my [Google Scholar](https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en).'
 
 content:
   # Filter on criteria
