@@ -1,5 +1,5 @@
 ---
-title: "_De novo_ transcriptome assembly: A comprehensive cross-species comparison of short-read RNA-Seq assemblers"
+title: "*De novo* transcriptome assembly: A comprehensive cross-species comparison of short-read RNA-Seq assemblers"
 date: 2019
 publishDate: 2019-05-11
 authors: ["**Martin Hölzer**", "Manja Marz"]
@@ -14,16 +14,12 @@ links:
     url: 'https://doi.org/10.1093/gigascience/giz039'
   - icon_pack: ai
     icon: open-data
-    name: Open data (electronic supplement)
+    name: Electronic Supplement 
     url: 'https://www.rna.uni-jena.de/supplements/assembly/index.html'
-  - icon_pack: fab
-    icon: github
-    name: Input files
-    url: 'https://github.com/simongravelle/lammps-input-files'
-  - icon_pack: fab
-    icon: github
-    name: Bank of GO particles
-    url: 'https://github.com/simongravelle/bank-graphene-oxide-nanoparticle'
+  - icon_pack: ai
+    icon: open-data
+    name: Open Science Framework
+    url: 'https://doi.org/10.17605/OSF.IO/5ZDX4'
 
 ---
 
