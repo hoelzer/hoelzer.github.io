@@ -77,9 +77,10 @@ highlight_name: true
 ---
 **About me**
 
-I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany. We study infectious disease by applying real-time nanopore sequencing, analyzing environmental samples such as wastewater, and investigating microbial evolution using pangenomics and AI for genomic surveillance.
+I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany. We study infectious diseases in a One Health context by applying real-time nanopore sequencing, analyzing environmental samples such as wastewater, and studying microbial evolution using pangenomics and AI for genomic surveillance.
 
-I studied Bioinformatics at the University of Jena and achieved my PhD by specializing in [RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/). Following this, I moved to the European Bioinformatics Institute in Hinxton to work in [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/). I am now continuing my academic journey at the RKI in Berlin conducting research with my team in the following areas:
+I studied Bioinformatics at the University of Jena, Germany (FSU) and achieved my PhD by specializing in [RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/). Following this, I moved to the European Bioinformatics Institute (EMBL-EBI), Hinxton (UK) to work in [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/). Since 2020, I have continued my academic journey at the RKI in Berlin, the national institute for public health in Germany, conducting research with my team and (inter)national colleagues in the following areas:
+
 
 **Research interests**
 
@@ -90,4 +91,3 @@ I studied Bioinformatics at the University of Jena and achieved my PhD by specia
 * Transcriptomics and gene expression
 * Metagenomics and metatranscriptomics
 * Cloud computing, automation, and reproducibility with [Nextflow](https://nextflow.io)
-
