@@ -66,9 +66,9 @@ social:
     link: https://github.com/hoelzer
     display:
       header: true
-  - icon: cv
-    icon_pack: ai
-    link: files/resume/cv-martin-hoelzer.pdf
+#  - icon: cv
+#    icon_pack: ai
+#    link: files/resume/cv-martin-hoelzer.pdf
 
 
 
