@@ -90,4 +90,4 @@ I studied Bioinformatics at the University of Jena, Germany (FSU) and achieved m
 * Nanopore real-time sequencing
 * Transcriptomics and gene expression
 * Metagenomics and metatranscriptomics
-* Cloud computing, automation, and reproducibility with [Nextflow](https://nextflow.io)
+* Reproducible genomics (container, WMS)
