@@ -35,6 +35,9 @@
   - name: Contact
     url: '#contact'
     weight: 40
+  - name: Gallery
+    url: '/gallery.html'
+    weight: 50
   
 # Sub-home menu
 #  - name: About
