@@ -3,7 +3,7 @@ active: false
 widget: portfolio
 headless: true
 weight: 35
-title: Molecular *art*
+title: Scientific adventures
 subtitle: ''
 content:
   page_type: gallery
@@ -16,5 +16,5 @@ design:
   #   3 = Card
   #   5 = Showcase
   view: 3
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---
