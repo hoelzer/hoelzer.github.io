@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Bioinformatics Researcher, Team Lead @RKI
+role: Bioinformatics Researcher, [Team Lead @RKI](https://mf1-btr.github.io/)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -91,3 +91,5 @@ I studied Bioinformatics at the University of Jena, Germany (FSU) and achieved m
 * Transcriptomics and gene expression
 * Metagenomics and metatranscriptomics
 * Reproducible genomics (container, WMS)
+
+Visit the BTR team: [Bioinformatics & Translational Research](https://mf1-btr.github.io/).
