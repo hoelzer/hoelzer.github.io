@@ -81,15 +81,4 @@ I am a researcher and team lead at the [Genome Competence Center](https://www.rk
 
 I studied Bioinformatics at the University of Jena, Germany (FSU) and achieved my PhD by specializing in [RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/). Following this, I moved to the European Bioinformatics Institute (EMBL-EBI), Hinxton (UK) to work in [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/). Since 2020, I have continued my academic journey at the RKI in Berlin, the national institute for public health in Germany, conducting research with my team and (inter)national colleagues in the following areas:
 
-
-**Research interests**
-
-* Microbial bioinformatics
-* Genomic surveillance
-* Pathogen detection and characterization
-* Nanopore real-time sequencing
-* Transcriptomics and gene expression
-* Metagenomics and metatranscriptomics
-* Reproducible genomics (container, WMS)
-
 Visit the BTR team: [Bioinformatics & Translational Research](https://mf1-btr.github.io/).
