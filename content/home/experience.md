@@ -27,7 +27,7 @@ date_format: Jan 2006
 experience:
         - title: Researcher & Team Lead
           company: Bioinformatics & Translational Research, Genome Competence Center, RKI
-          company_url: 'https://www.rki.de/EN/Home/homepage_node.html'
+          company_url: 'https://mf1-btr.github.io/'
           company_logo: rki
           location: Berlin, Germany
           date_start: '2020-08-01'
