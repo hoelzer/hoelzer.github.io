@@ -52,7 +52,7 @@ social:
    # icon_pack: fab
    # link: https://twitter.com/martinhoelzer
    # label: Follow me on Twitter
-  - icon: bluesky
+  - icon: mastodon
     icon_pack: fab
     link: https://bsky.app/profile/martinhoelzer.bsky.social
     label: Follow me on BlueSky
