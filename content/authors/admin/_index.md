@@ -19,7 +19,7 @@ role: Bioinformatics Researcher, [Team Lead @RKI](https://mf1-btr.github.io/)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Robert Koch Institute, Berlin, Germany
-    url: https://www.rki.de/EN/Home/homepage_node.html
+    url: https://www.rki.de/EN/Home/home_node.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a bioinformatician and team leader interested in pathogenomics at RKI in Berlin, Germany.
@@ -48,13 +48,14 @@ social:
     icon_pack: fas
     #link: mailto:hoelzer.martin@gmail.com
     link: '/#contact'
-  - icon: twitter
+  #- icon: twitter
+   # icon_pack: fab
+   # link: https://twitter.com/martinhoelzer
+   # label: Follow me on Twitter
+  - icon: mastodon
     icon_pack: fab
-    link: https://twitter.com/martinhoelzer
-    label: Follow me on Twitter
-  #- icon: mastodon
-  #  icon_pack: fab
-  #  link: https://mastodon.social/@simongravelle
+    link: https://bsky.app/profile/martinhoelzer.bsky.social
+    label: Follow me on BlueSky
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.de/citations?user=DMZ7Hc8AAAAJ&hl=en
@@ -77,7 +78,8 @@ highlight_name: true
 ---
 **About me**
 
-I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Content/Institute/DepartmentsUnits/MF/MF1/mf1_node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/homepage_node.html) in Berlin, Germany. We study infectious diseases in a One Health context by applying real-time nanopore sequencing, pangenomics approaches, analyzing environmental samples such as wastewater, and studying microbial evolution using bioinformatics for genomic surveillance.
+I am a researcher and team lead at the [Genome Competence Center](https://www.rki.de/EN/Institute/Organisation/Departments/MFI/MF1/mf1-genome-competence-centre-node.html) of the [Robert Koch Institute](https://www.rki.de/EN/Home/home_node.html)
+in Berlin, Germany. We study infectious diseases in a One Health context by applying real-time nanopore sequencing, pangenomics approaches, analyzing environmental samples such as wastewater, and studying microbial evolution using bioinformatics for genomic surveillance.
 
 I studied Bioinformatics at the University of Jena, Germany (FSU) and achieved my PhD by specializing in [RNA Bioinformatics and High-Throughput Analysis](https://www.rna.uni-jena.de/). Following this, I joined the European Bioinformatics Institute (EMBL-EBI), Hinxton (UK) to work in [Microbiome Informatics](https://www.ebi.ac.uk/about/teams/microbiome-informatics/). Since 2020, I have continued my academic journey at the RKI in Berlin, the national institute for public health in Germany, conducting research with my team and (inter)national colleagues.
 
